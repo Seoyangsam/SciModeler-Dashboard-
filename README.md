@@ -20,8 +20,12 @@ connected as user neo4j to bolt://localhost:7687
 7. For how to use the dashboard, please refers to our manual. 
 
 # Authors
-Martijn van Veldhuizen – Secretary  
-Michelle van Alst – Secretary (chair) 
+Martijn van Veldhuizen – Secretary
+
+Michelle van Alst – Secretary (chair)
+
 Nelson van Duin – Technical Lead 
+
 Rafaël Tulen – Data Steward 
+
 Robert Xu - Controller 
