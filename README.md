@@ -1,4 +1,4 @@
-# SciModeler-Dashboard-
+# SciModeler Dashboard
 This is the dashboard we build by Dash library of python. 
 
 Following will be the steps how you should use our dashboard.
