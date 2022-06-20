@@ -18,3 +18,10 @@ connected as user neo4j to bolt://localhost:7687
 6. In the output you will see the address of the localhost of our dashboard, click it to open a new webpage and welcome to our dashboard!
 
 7. For how to use the dashboard, please refers to our manual. 
+
+# Authors
+Martijn van Veldhuizen – Secretary  
+Michelle van Alst – Secretary (chair) 
+Nelson van Duin – Technical Lead 
+Rafaël Tulen – Data Steward 
+Robert Xu - Controller 
